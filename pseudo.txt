@@ -1,0 +1,33 @@
+Find message ID
+Take message ID add it to url
+Navigate to message URL
+Select all
+Create temp excel page
+Paste all
+Search for “News”
+	If News Found
+		DO B
+	Else “No News found”
+		Delete Temp
+		Delete message
+B
+Format excel page
+Open article in new tab
+Copy article text
+Navigate to word frequency counter
+Wait for page to load
+Find text box
+Paste article
+Run Frequency counter
+Copy output
+Paste output into Excel
+Format content
+Navigate to summarizer
+Wait for page to load
+Find text box
+Paste article
+Run Summarizer
+Copy output
+Paste output into Excel
+Format content
+Close everything
